@@ -18,6 +18,11 @@ into pysnmp format with pysmi's
 [mibdump.py](https://github.com/etingof/pysmi/blob/master/scripts/mibdump.py)
 tool.
 
+Why this fork?
+--------------
+[Original project](https://github.com/etingof/pysnmp-mibs) by [Ilya Etingof](https://github.com/etingof) seems not to be continued anymore.
+Because of that, we try to maintain / enhance Pre-compiled PySNMP MIBs.
+
 Installation
 ------------
 
@@ -39,5 +44,7 @@ Feedback and collaboration
 
 I'm interested in bug reports, fixes, suggestions and improvements. Your
 pull requests are very welcome!
+
+If you want to contact us, please mail to the [Thola Team](mailto:snmplabs@thola.io)
 
 Copyright (c) 2005-2017, [Ilya Etingof](mailto:etingof@gmail.com). All rights reserved.
