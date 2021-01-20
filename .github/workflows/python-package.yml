@@ -33,4 +33,5 @@ jobs:
         pip install -e .
     - name: Run test
       run: |
+        pip install --force-reinstall -r requirements.txt
         PYTHONPATH=.:$PYTHONPATH python tests/test_load_all.py
